@@ -1,0 +1,35 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.container-fluid {
+  background-color: #644536;
+}
+
+.navbar-header a.navbar-brand {
+  color: #c4a381;
+}
+
+.navbar-header a.navbar-brand:hover,
+.navbar-header a.navbar-brand:focus {
+  color: #eef1bd;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #eef1bd;
+}
+
+#menu-dropdown a {
+  text-align: center;
+  background-color: #c4a381;
+}
+
+#menu-dropdown a:hover {
+  background-color: #eef1bd;
+}
+
+.container {
+    background-color: #B2675E;
+}
